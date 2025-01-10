@@ -12,3 +12,4 @@ C:\Users\xps13\Desktop\cSHARPdue\CsharpProjects\TestProjects\obj\Debug\net9.0\re
 C:\Users\xps13\Desktop\cSHARPdue\CsharpProjects\TestProjects\obj\Debug\net9.0\TestProjects.pdb
 C:\Users\xps13\Desktop\cSHARPdue\CsharpProjects\TestProjects\obj\Debug\net9.0\TestProjects.genruntimeconfig.cache
 C:\Users\xps13\Desktop\cSHARPdue\CsharpProjects\TestProjects\obj\Debug\net9.0\ref\TestProjects.dll
+C:\Users\xps13\Desktop\cSHARPdue\CsharpProjects\TestProjects\obj\Debug\net9.0\TestProjects.sourcelink.json
